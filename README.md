@@ -1,0 +1,1 @@
+`offline-key` generates printable pages for your secret data as Data Matrix (ISO/IEC 16022) cells. It is based on the blog article [Archiving cryptographic secrets on paper](https://lab.whitequark.org/notes/2016-08-24/archiving-cryptographic-secrets-on-paper/).
